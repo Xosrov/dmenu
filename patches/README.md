@@ -10,5 +10,6 @@
 * **lineheight**: aesthetics
 * **numbers** helpful
 * **center** very pretty and works well with other patches
+* **alpha** who doesn't like transparency
 
 configurations are commented more verbosely in `config.def.h`, feel free to change what you please!
